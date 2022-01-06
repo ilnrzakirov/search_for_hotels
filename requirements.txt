@@ -1,0 +1,16 @@
+django==3.2.6
+geopy==2.2.0
+pyTelegramBotAPI==3.8.2
+python-decouple==3.4
+pip~=21.1.2
+pytz~=2021.1
+requests~=2.26.0
+geographiclib~=1.52
+sqlparse~=0.4.1
+asgiref~=3.3.4
+certifi~=2021.5.30
+urllib3~=1.26.6
+idna~=3.2
+setuptools~=57.0.0
+colorama~=0.4.4
+loguru~=0.5.3
